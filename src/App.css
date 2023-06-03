@@ -1,0 +1,21 @@
+.card {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 14px;
+  }
+  
+  .card-link {
+    text-decoration: none;
+    color: blue;
+  }
+  
